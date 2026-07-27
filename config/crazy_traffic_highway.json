@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "enabled": true,
+  "force_update": false,
+  "android": {
+    "enable_ads": 1,
+    "ads_request_delay": 5,
+    "back_btn_ad_frequency": 5,
+    "show_gadsme_ads": 9000,
+    "show_traffic": 2000,
+    "traffic_density": 2,
+	"banner_placement": 1,
+    "show_crash_report": 0,
+    "default_controls": 0,
+    "min_ram_gc": 4096,
+	"realistic_sounds_ram": 6000,
+    "extra_screen_ads": 1,
+    "splash_ads_excessive": 1
+  },
+  "ios": {
+    "enable_ads": 1,
+    "ads_request_delay": 5,
+    "back_btn_ad_frequency": 5,
+    "show_gadsme_ads": 9000,
+    "show_traffic": 2000,
+    "traffic_density": 2,
+	"banner_placement": 1,
+    "show_crash_report": 0,
+    "default_controls": 0,
+    "min_ram_gc": 4096,
+	"realistic_sounds_ram": 6000,
+    "extra_screen_ads": 1,
+    "splash_ads_excessive": 1
+  }
+}
