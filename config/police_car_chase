@@ -1,1 +1,35 @@
-asd
+{
+  "version": 1,
+  "enabled": true,
+  "force_update": false,
+  "android": {
+    
+    "ads_request_delay": 5,
+    "back_btn_ad_frequency": 5,
+    "show_gadsme_ads": 9000,
+    "show_traffic": 2000,
+    "traffic_density": 3,
+	  "banner_placement": 1,
+    "show_crash_report": 1,
+    "default_controls": 0,
+    "min_ram_gc": 4096,
+	  "realistic_sounds_ram": 6000,
+
+    "enable_ads": 1,                  // ads in game
+    "ad_in_splash": 1,                // app open ad in splash
+    "resume_ad_in_pause": 1,          // interstitial ad on resume in pause panel
+    "restart_ad_in_pause": 1,         // interstitial ad on restart in pause panel
+    "mainmenu_ad_in_pause": 1,        // interstitial ad on mainmenu in pause panel
+ 
+    "ad_on_complete": 1,              // interstitial ad on level complete panel
+    "ad_on_fail": 1,                  // interstitial ad on level fail panel
+ 
+    "extra_interstitial_ads": 1111,      // 0 after avatar screen in splash
+                                      // 1 after daily Reward screen in splash
+                                      // 2 after loading screen in splash
+                                      // 3 after loading screen in main menu
+  },
+  "ios": {
+    "enable_ads": 1
+  }
+}
