@@ -5,6 +5,7 @@
   "android": {
     "show_traffic": 2000,
     "banner_placement": 1,
+    "ad_openworld_timedelay": 150,
     "show_crash_report": 1,
     "enable_ads": 1,
     "appopen_in_splash": 1,
