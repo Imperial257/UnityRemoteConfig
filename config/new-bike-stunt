@@ -1,19 +1,21 @@
-enable_ads;                  // ads in game
- 
-    public int appopen_ad;                
-    public int resume_ad_in_pause;         
-    public int restart_ad_in_pause;         
-    public int mainmenu_ad_in_pause;        
- 
-    public int ad_on_complete;             
-    public int ad_on_fail;                  
- 
-    public string extra_interstitial_ads;    
-                                               
-                                            
-                                               
- 
- 
-    public int ads_request_delay;
-    public int back_btn_ad_frequency;
-    public int banner_placement;
+
+{
+  "version": 1,
+  "enabled": true,
+  "force_update": false,
+  "android": {
+    "show_gadsme_ads": 9000,
+    "show_crash_report": 1,
+    "enable_ads": 1,
+    "appopen_in_splash": 1,
+    "resume_ad_in_pause": 1,
+    "restart_ad_in_pause": 1,
+    "mainmenu_ad_in_pause": 1,
+    "ad_on_complete": 1,
+    "ad_on_fail": 1,
+    "extra_interstitial_ads": "1111"
+  },
+  "ios": {
+    "enable_ads": 1
+  }
+}
