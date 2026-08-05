@@ -1,0 +1,19 @@
+enable_ads;                  // ads in game
+ 
+    public int appopen_ad;                
+    public int resume_ad_in_pause;         
+    public int restart_ad_in_pause;         
+    public int mainmenu_ad_in_pause;        
+ 
+    public int ad_on_complete;             
+    public int ad_on_fail;                  
+ 
+    public string extra_interstitial_ads;    
+                                               
+                                            
+                                               
+ 
+ 
+    public int ads_request_delay;
+    public int back_btn_ad_frequency;
+    public int banner_placement;
