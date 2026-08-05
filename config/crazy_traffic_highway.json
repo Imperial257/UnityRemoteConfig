@@ -4,6 +4,13 @@
   "force_update": false,
   "android": {
     "enable_ads": 1,
+	  "appopen_in_splash": 1,
+	  "resume_ad_in_pause": 1,
+	  "restart_ad_in_pause": 1,
+	  "mainmenu_ad_in_pause": 1,
+	  "ad_on_complete": 1,
+	  "ad_on_fail": 1,
+	  "extra_interstitial_ads" : "111111",
     "ads_request_delay": 5,
     "back_btn_ad_frequency": 5,
     "show_gadsme_ads": 9000,
