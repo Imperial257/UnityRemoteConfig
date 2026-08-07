@@ -11,6 +11,7 @@
     "mainmenu_ad_in_pause": 0,
     "ad_on_complete": 1,
     "ad_on_fail": 1,
+    "ad_after_levels": 2,
     "extra_interstitial_ads": "11111"
   },
   "ios": {
