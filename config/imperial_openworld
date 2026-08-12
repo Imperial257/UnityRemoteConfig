@@ -7,7 +7,7 @@
     "show_crash_report": 1,
     "enable_ads": 1,
     "appopen_in_splash": 1,
-    "resume_ad_in_pause": 0,
+    "resume_ad_in_pause": 1,
     "restart_ad_in_pause": 1,
     "mainmenu_ad_in_pause": 0,
     "ad_on_complete": 1,
