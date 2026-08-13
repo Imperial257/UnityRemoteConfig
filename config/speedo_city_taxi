@@ -13,7 +13,7 @@
     "mainmenu_ad_in_pause": 0,
     "ad_on_complete": 1,
     "ad_on_fail": 1,
-    "extra_interstitial_ads": "001111"
+    "extra_interstitial_ads": "111111"
   },
   "ios": {
     "enable_ads": 1
