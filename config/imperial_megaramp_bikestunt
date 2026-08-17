@@ -1,0 +1,21 @@
+
+{
+  "version": 1,
+  "enabled": true,
+  "force_update": false,
+  "android": {
+    "show_gadsme_ads": 9000,
+    "show_crash_report": 1,
+    "enable_ads": 1,
+    "appopen_in_splash": 1,
+    "resume_ad_in_pause": 1,
+    "restart_ad_in_pause": 1,
+    "mainmenu_ad_in_pause": 1,
+    "ad_on_complete": 1,
+    "ad_on_fail": 1,
+    "extra_interstitial_ads": "1111"
+  },
+  "ios": {
+    "enable_ads": 1
+  }
+}
