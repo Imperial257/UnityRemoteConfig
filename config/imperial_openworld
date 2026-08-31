@@ -13,7 +13,7 @@
     "ad_on_complete": 1,
     "ad_on_fail": 1,
     "extra_interstitial_ads": "011111001",
-    "gc_collect_ram": 1024
+    "gc_collect_ram": 4096
   },
   "ios": {
     "enable_ads": 1
