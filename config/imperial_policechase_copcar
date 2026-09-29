@@ -13,9 +13,9 @@
     "default_controls": 0,
     "min_ram_gc": 4096,
 	"realistic_sounds_ram": 6000,
-    "extra_screen_ads": 1,
-	"splash_extrascreens": 1,
-    "splash_ads_excessive": 1,
+    "extra_screen_ads": 0,
+	"splash_extrascreens": 0,
+    "splash_ads_excessive": 0,
 	  
     "enable_ads": 1,
 	"appopen_in_splash": 0,
