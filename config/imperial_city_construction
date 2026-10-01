@@ -4,7 +4,7 @@
   "enabled": true,
   "force_update": false,
   "android": {
-    "show_gadsme_ads": 9000,
+    "show_gadsme_ads": 4096,
     "show_crash_report": 1,
     "enable_ads": 1,
     "appopen_in_splash": 1,
