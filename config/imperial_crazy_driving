@@ -24,7 +24,7 @@
   },
   "ios": {
     "enable_ads": 1,
-"interstitial_in_splash": 0,
-"show_rect_banner": 0
+    "interstitial_in_splash": 0,
+    "show_rect_banner": 0
   }
 }
