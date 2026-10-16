@@ -13,6 +13,8 @@
 "ow_interstitial": 1,
     "enable_ads": 1,
     "appopen_in_splash": 1,
+"interstitial_in_splash": 0,
+"show_rect_banner":0,
     "resume_ad_in_pause": 0,
     "restart_ad_in_pause": 1,
     "mainmenu_ad_in_pause": 1,
@@ -21,6 +23,8 @@
     "extra_interstitial_ads": "011110"
   },
   "ios": {
-    "enable_ads": 1
+    "enable_ads": 1,
+"interstitial_in_splash": 0,
+"show_rect_banner":0
   }
 }
