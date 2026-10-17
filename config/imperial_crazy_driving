@@ -19,7 +19,7 @@
     "restart_ad_in_pause": 1,
     "mainmenu_ad_in_pause": 1,
     "ad_on_complete": 1,
-    "ad_on_fail": 1,
+    "ad_on_fail": 0,
     "extra_interstitial_ads": "011010"
   },
   "ios": {
