@@ -16,8 +16,8 @@
     "interstitial_in_splash": 0,
     "show_rect_banner": 0,
     "resume_ad_in_pause": 0,
-    "restart_ad_in_pause": 1,
-    "mainmenu_ad_in_pause": 1,
+    "restart_ad_in_pause": 0,
+    "mainmenu_ad_in_pause": 0,
     "ad_on_complete": 1,
     "ad_on_fail": 1,
     "extra_interstitial_ads": "000010"
