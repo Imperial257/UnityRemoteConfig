@@ -14,7 +14,7 @@
     "ad_on_complete": 1,
     "ad_on_fail": 1,
     "rectangle_banner": 0,
-    "extra_interstitial_ads": "1110"
+    "extra_interstitial_ads": "1000"
   },
   "ios": {
     "enable_ads": 1
