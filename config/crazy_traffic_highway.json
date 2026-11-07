@@ -25,7 +25,7 @@
 	"ad_on_complete": 1,
 	"ad_on_fail": 1,
 	"show_rect_banner": 0,
-	"extra_interstitial_ads": "000011"
+	"extra_interstitial_ads": "0000110"
   },
   "ios": {
     "ads_request_delay": 5,
@@ -50,6 +50,6 @@
 	"ad_on_complete": 1,
 	"ad_on_fail": 1,
 	"show_rect_banner": 0,
-	"extra_interstitial_ads": "000011"
+	"extra_interstitial_ads": "0000110"
   }
 }
