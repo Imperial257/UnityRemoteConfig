@@ -5,7 +5,7 @@
   "android": {
     "show_traffic": 2000,
     "banner_placement": 1,
-    "ad_openworld_timedelay": 150,
+    "ad_openworld_timedelay": 300,
     "traffic_density": 2,
     "show_crash_report": 1,
     "show_gadsme_ads": 6000,
