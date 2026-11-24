@@ -17,6 +17,7 @@
 	"splash_extrascreens": 0,
     "splash_ads_excessive": 0,
 	"show_skipped_ads_in_mainmenu": 0,
+	"load_extra_interstitials": 2,
 	  
     "enable_ads": 1,
 	"appopen_in_splash": 1,
