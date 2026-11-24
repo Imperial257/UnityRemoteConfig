@@ -16,7 +16,7 @@
     "extra_screen_ads": 1,
 	"splash_extrascreens": 1,
     "splash_ads_excessive": 1,
-	"show_mp_chat": 0,
+	"show_mp_chat": 1,
 	  "load_extra_interstitials": 2,
 	  
     "enable_ads": 1,
