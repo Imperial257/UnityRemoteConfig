@@ -9,7 +9,7 @@
     "show_traffic": 2000,
     "traffic_density": 3,
 	"banner_placement": 1,
-    "show_crash_report": 1,
+    "show_crash_report": 2,
     "default_controls": 0,
     "min_ram_gc": 4096,
 	"realistic_sounds_ram": 6000,
