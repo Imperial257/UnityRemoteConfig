@@ -18,6 +18,8 @@
     "splash_ads_excessive": 1,
 	"show_mp_chat": 1,
 	  "load_extra_interstitials": 2,
+	  "mp_bot_ram_mb": "3000,6000",
+	  "mp_bot_counts": "2,2,5",
 	  
     "enable_ads": 1,
 	"appopen_in_splash": 1,
